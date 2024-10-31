@@ -1,6 +1,6 @@
 services:
   alpinegateway:
-    image: alpinegateway
+    image: ghcr.io/hoeflechner/dockergateway:main
     container_name: alpinegateway
     restart: unless-stopped
     environment:
