@@ -1,2 +1,2 @@
 # dockergateway
-controldefault gateway for docker containers
+control default gateway for docker containers
